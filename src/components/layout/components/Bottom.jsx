@@ -4,7 +4,7 @@ const Bottom = () => {
   return (
     <div className="mt-10 border-t border-gray-700 pt-6 flex flex-col md:flex-row justify-between items-center text-sm">
       <p>
-        © Ammara Ilyas, All Right Reserved. Designed By HTML Codex{" "}
+        © Mahnoor, All Right Reserved. Designed By HTML Codex{" "}
         <a
           href="https://htmlcodex.com"
           target="_blank"
